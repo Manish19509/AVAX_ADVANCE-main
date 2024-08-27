@@ -38,7 +38,7 @@ HyperSDK is better than using a traditional subnet in Avalanche because it provi
 
 - Then we will be going to check/view our balance using  command [./build/token-cli key balance] here also we have to give the assetID which is similar to the txID.
   
-<img width="358" alt="create final" src="https://github.com/user-attachments/assets/fb470f89-97fa-42e2-87ca-e40114512b69">
+<img width="1049" alt="create final" src="https://github.com/user-attachments/assets/fb470f89-97fa-42e2-87ca-e40114512b69">
 <img width="1049" alt="mint" src="https://github.com/user-attachments/assets/75f00c73-063e-4a4b-9b69-ca17b3341a7b">
 <img width="1049" alt="key balance" src="https://github.com/user-attachments/assets/85238499-51d0-410b-9f7d-a112667d6670">
 
