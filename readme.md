@@ -28,7 +28,8 @@ HyperSDK is better than using a traditional subnet in Avalanche because it provi
 
 ### Executing program
 - Firstly we are going to create our asset for that we have to run command [./build/token-cli action create-asset] then it will give the address and chainID , then asks for the metadata where we have to provide our chain name.
-  
+  <img width="1049" alt="mint" src="https://github.com/user-attachments/assets/75f00c73-063e-4a4b-9b69-ca17b3341a7b">
+
 <img width="1049" alt="Screenshot 2024-08-12 at 11 04 50 PM" src="https://github.com/user-attachments/assets/97f922be-d9e1-43da-80ed-34617934479e">
 
 
