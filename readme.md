@@ -30,19 +30,17 @@ HyperSDK is better than using a traditional subnet in Avalanche because it provi
 - Firstly we are going to create our asset for that we have to run command [./build/token-cli action create-asset] then it will give the address and chainID , then asks for the metadata where we have to provide our chain name.
   <img width="1049" alt="mint" src="https://github.com/user-attachments/assets/75f00c73-063e-4a4b-9b69-ca17b3341a7b">
 
-<img width="1049" alt="Screenshot 2024-08-12 at 11 04 50 PM" src="https://github.com/user-attachments/assets/97f922be-d9e1-43da-80ed-34617934479e">
-
 
 - After successful creation we are going to mint using the following command [./build/token-cli action mint-asset] then after running this command we have to provide our assetID which is similar to our txID (so copy and give it to the assetID) then it will ask for the value so give some and type 'y' for confirmation.
 
-<img width="1049" alt="Screenshot 2024-08-12 at 11 04 57 PM" src="https://github.com/user-attachments/assets/877b4434-7312-4dcc-b613-d67e8d8a9bb8">
+<img width="1049" alt="key balance" src="https://github.com/user-attachments/assets/85238499-51d0-410b-9f7d-a112667d6670">
 
 
 - Then we will be going to check/view our balance using  command [./build/token-cli key balance] here also we have to give the assetID which is similar to the txID.
   
-<img width="1049" alt="Screenshot 2024-08-12 at 11 05 10 PM" src="https://github.com/user-attachments/assets/5e4791dd-0856-4cdb-850f-379c93240ab5">
-<img width="1049" alt="Screenshot 2024-08-12 at 11 05 21 PM" src="https://github.com/user-attachments/assets/767f508c-960e-4f01-a2f5-3dbc0fbdeaed">
-<img width="1049" alt="Screenshot 2024-08-12 at 11 05 45 PM" src="https://github.com/user-attachments/assets/4d1b52ed-f85f-46cc-bb41-d18f071c3956">
+<img width="358" alt="create final" src="https://github.com/user-attachments/assets/fb470f89-97fa-42e2-87ca-e40114512b69">
+<img width="1049" alt="mint" src="https://github.com/user-attachments/assets/75f00c73-063e-4a4b-9b69-ca17b3341a7b">
+<img width="1049" alt="key balance" src="https://github.com/user-attachments/assets/85238499-51d0-410b-9f7d-a112667d6670">
 
 
 - We are having some command which we can also  use for different functionalities
